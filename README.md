@@ -1,0 +1,105 @@
+# Justin Bieber – Confident
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:10.65] Don't do it to me
+[00:13.95] Don't do it to me
+[00:14.78] Oh no no, oh no no
+[00:16.92] Don't do it to me
+[00:18.13] Oh no no, oh no no
+[00:20.34] Don't do it to me
+[00:21.88] Oh no no, oh no no
+[00:24.54] Don't do it to me
+[00:25.70] Oh no no, oh no no
+[00:34.70] 
+[00:28.52] Focused, I'm focused
+[00:31.83] She got a body like that
+[00:33.18] I ain't never seen nothing like that, ah-ah
+[00:35.77] Like a fantasy in front of me, I-I-I
+[00:39.36] I think that something special is going down
+[00:42.69] That's right, I think she foreign
+[00:44.33] I think she foreign, got passports
+[00:46.67] Mi amor started slow, got faster
+[00:49.86] She gon' work some more, work some more
+[00:53.05] No stopping her now, no stopping her now
+[01:13.05] 
+[00:56.83] Then she started dancing, sexual romancing
+[01:00.85] Nasty but she fancy, lipstick on my satin sheets
+[01:04.54] What's your nationality? I wonder if there's more of you
+[01:07.91] She's got my attention, she's confident
+[01:27.41] 
+[01:11.56] Oh no no, oh no no
+[01:14.07] She's confident
+[01:15.32] Oh no no, oh no no
+[01:17.78] And I'm down with it
+[01:19.05] Oh no no, oh no no
+[01:21.21] She's confident
+[01:22.33] You can tell by the way she walks in the room
+[01:44.83] 
+[01:25.51] She said it's her first time
+[01:28.17] I think she might have lied
+[01:29.69] Feels so good damn, and I don't know why
+[01:32.79] I'm addicted, something like an addict
+[01:36.49] Got me twisted, but still I gotta have it
+[01:40.02] Explosive, explosive (I could still smell her perfume)
+[01:46.73] It's not hard to notice, that I'm open
+[01:51.08] Hypnotised by the way she moves
+[02:06.58] 
+[01:54.85] Then she started dancing, sexual romancing
+[01:58.14] Nasty but she fancy, Mona Lisa master piece
+[02:01.90] What's your nationality? I wonder if there's more of you
+[02:05.39] She's got my attention, she's confident
+[02:24.89] 
+[02:09.12] Oh no no, oh no no
+[02:11.58] She's confident
+[02:13.05] Oh no no, oh no no
+[02:15.02] And I'm down with it
+[02:16.41] Oh no no, oh no no
+[02:18.63] She's confident
+[02:19.89] I could tell by the way she walks in the room
+[02:42.39] 
+[02:22.87] She said it's her first time
+[02:25.55] I think she might have lied
+[02:26.65] Feels so good damn, and I don't know why
+[02:30.11] I'm addicted, something like a headache
+[02:33.85] Got me twisted, but still I gotta have it (Chance, the Rapper?)
+[03:05.35] 
+[02:37.80] Tattoos, piercings and she just learned to twerk
+[02:40.79] She ain't got a heart or a ass, just her brains, gotta ask
+[02:42.96] 'Cause her ass on a learning curve
+[02:44.38] And she love to earn the verb, I mean burn the word
+[02:46.44] That's only legal with a doctors note
+[02:47.88] Real deep pockets like a doctors coat
+[02:49.62] Stay fitted like Diddy, hair back tryna rock the boat
+[02:51.75] She the first mate wanna rock the boat
+[02:53.56] She never forget to ride like a bicycle
+[02:55.31] She like planes, trains, chains with icicles
+[02:56.95] It goes, it goes her, blank, blank, and rock and roll
+[02:59.05] She say "I know, honey bunny that's a funny thing"
+[03:02.83] Thots twerk for the goodfella
+[03:04.58] She money dan' with the money team, ra!
+[03:24.08] 
+[03:06.94] Oh no no, oh no no
+[03:08.59] She's confident
+[03:10.12] Oh no no, oh no no
+[03:12.34] And I'm down with it
+[03:13.68] Oh no no, oh no no
+[03:15.85] She's confident
+[03:16.73] You can tell by the way she walks in the room
+[03:39.23] 
+[03:20.33] She said it's her first time
+[03:22.78] I think she might have lied
+[03:24.05] Feels so good damn, and I don't know why
+[03:27.45] I'm addicted, something like a headache
+[03:31.27] Got me twisted, but still I gotta have it
+[03:51.77] 
+[03:36.72] But still I gotta have it
+[03:40.41] But still I gotta have it
+[03:43.81] But still I gotta have it
+[03:49.44] Oh no no, oh no no
+[03:52.96] Oh no no, oh no no
+[03:56.42] Oh no no, oh no no
+[04:00.22] Oh no no, oh no no
+[04:01.93] But still I gotta have it
+```
