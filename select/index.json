@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Confident",
+  "base_artist": "Justin Bieber",
+  "createdAt": "2026-03-03T13:57:24.140291Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Loud, confident & wrong",
+      "artist": "Nik Kershaw",
+      "has_synced": false,
+      "path": "select/01_Loud,_confident_&_wrong_Nik_Kershaw.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Confident",
+      "artist": "Justin Bieber feat. Chance the Rapper",
+      "has_synced": true,
+      "path": "select/02_Confident_Justin_Bieber_feat._Chance_the_Rapper.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Confident (feat. Chance The Rapper)",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/03_Confident_(feat._Chance_The_Rapper)_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Confident",
+      "artist": "Demi Lovato",
+      "has_synced": true,
+      "path": "select/04_Confident_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Confident - DJ Lynnwood Remix",
+      "artist": "Demi Lovato",
+      "has_synced": false,
+      "path": "select/05_Confident_-_DJ_Lynnwood_Remix_Demi_Lovato.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Confident (DJ Lynnwood Remix)",
+      "artist": "Demi Lovato",
+      "has_synced": false,
+      "path": "select/06_Confident_(DJ_Lynnwood_Remix)_Demi_Lovato.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Confident (DJLW Mix Show)",
+      "artist": "Demi Lovato",
+      "has_synced": true,
+      "path": "select/07_Confident_(DJLW_Mix_Show)_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Confident (DJLW Radio)",
+      "artist": "Demi Lovato",
+      "has_synced": true,
+      "path": "select/08_Confident_(DJLW_Radio)_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Confident - Gianni Kosta Remix",
+      "artist": "Demi Lovato",
+      "has_synced": true,
+      "path": "select/09_Confident_-_Gianni_Kosta_Remix_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Confident (Gianni Kosta Remix)",
+      "artist": "Demi Lovato",
+      "has_synced": true,
+      "path": "select/10_Confident_(Gianni_Kosta_Remix)_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Confident (The Alias Edit)",
+      "artist": "Demi Lovato",
+      "has_synced": true,
+      "path": "select/11_Confident_(The_Alias_Edit)_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Confident - VARA Remix",
+      "artist": "Demi Lovato",
+      "has_synced": false,
+      "path": "select/12_Confident_-_VARA_Remix_Demi_Lovato.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Confident (VARA Remix)",
+      "artist": "Demi Lovato",
+      "has_synced": false,
+      "path": "select/13_Confident_(VARA_Remix)_Demi_Lovato.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Confident - Volkoder Remix",
+      "artist": "Demi Lovato",
+      "has_synced": true,
+      "path": "select/14_Confident_-_Volkoder_Remix_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Confident (Volkoder Remix)",
+      "artist": "Demi Lovato",
+      "has_synced": true,
+      "path": "select/15_Confident_(Volkoder_Remix)_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Confident",
+      "artist": "SD",
+      "has_synced": false,
+      "path": "select/16_Confident_SD.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Confident",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/17_Confident_Justin_Bieber.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Confident",
+      "artist": "Justin Bieber",
+      "has_synced": false,
+      "path": "select/pl_01_Confident_Justin_Bieber.txt"
+    }
+  ]
+}
